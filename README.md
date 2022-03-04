@@ -1,7 +1,7 @@
 # side-project-ideas
 This is an attempt to help coalesce ideas in my head in a central location. I don't know if this is the best place for it, but let's try it out!
 
-## Learning
+## 📖 Learning
 These are things I want to build to learn something from.
 
 **Real-Time Chat / Slack Clone**
@@ -17,7 +17,7 @@ These are things I want to build to learn something from.
 **Storefront / Amazon Clone**
 * primarily would like to learn how to organize relational data models for an ecomm application
 
-## Personal Stuff
+## 🧰 Personal Stuff
 These are things I'd actually want to use on my day-to-day.
 
 **30-Day Pushup Tracker**
