@@ -27,3 +27,8 @@ These are things I'd actually want to use on my day-to-day.
 **Starting Strength Tracker**
 * build something similar to SL5x5 [app](https://play.google.com/store/apps/details?id=com.stronglifts.app&hl=en&gl=us)
 
+**Refrigerator Inventory Management System**
+* would be great to have an app that I can use to scan barcodes for grocery items
+* use camera on phone to scan the barcode to do a UPC lookup
+* would be great to know the expiration date of the item
+* 
